@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m currently developing MERN stack applications, focusing on building interactive and scalable user interfaces with React.js.<br>I’m looking to collaborate on Open-source projects that involve React.js, front-end development, or full-stack applications using the MERN stack.<br>I’m currently learning  Express.js techniques to improve backend efficiency, and experimenting with new React libraries and tools.<br>I’m always exploring new tech trends and love to optimize UI experiences for better user engagement!.<br><br>
+Hi there! I'm a Software Engineer with 1.5+ years of professional experience as a Full Stack Web and Mobile Application Developer.
+
+I specialize in building scalable, high-performance applications using modern technologies across the frontend, backend, and mobile platforms. Currently working at TechAvenue, I focus on delivering clean, maintainable code and intuitive user interfaces that drive real impact.<br><br>
 
 
  
